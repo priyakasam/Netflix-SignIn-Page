@@ -1,0 +1,69 @@
+ body{
+    background-image: url("netflix-collection.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:1000px;
+    color: white;
+}
+
+.main{
+    background-color:rgba(0,0,0,0.7);
+    height: 550px;
+    width: 500px;
+    margin-left: 500px;
+   
+}
+h2{
+    text-align: left;
+    
+}
+.heading
+{
+    margin-left: 50px;
+    margin-bottom: 70px;
+    padding-top: 5px;
+    
+} 
+#email_or_phone,#pass
+{
+    height: 50px;
+    width:400px;
+    background-color:rgba(0,0,0,0.7); 
+    padding-left: 10px;
+    border: 0.1svh solid whitesmoke;
+    margin-bottom: 15px;
+}
+#btn
+{
+    height: 50px;
+    width:420px;
+    background-color: red;
+    margin-bottom: 15px;
+}
+#btn1
+{
+    height: 50px;
+    width:420px;
+    background-color:rgba(232, 217, 217, 0.092); 
+    color: white;
+    margin-bottom: 15px;
+
+
+}
+#btn1:hover
+{
+    background-color: black;
+}
+#rem
+{
+    margin-bottom: 15px;
+}
+#sign{
+    margin-left: 2px;
+    text-decoration: none;
+    margin-bottom: 15px;
+    color: white;
+}
+p{
+    color:rgba(0, 0, 0, 0.152); 
+}
